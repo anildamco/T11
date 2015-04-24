@@ -13,4 +13,11 @@
         <class name="Pkg.class2" ></class>  
     </classes>
 </test>
+
+<test name="test4 test">
+    <classes>
+        <class name="Pkg1.class2" ></class>  
+    </classes>
+</test>
+
 </suite>
